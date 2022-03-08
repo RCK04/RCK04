@@ -1,6 +1,6 @@
-<h1>
+<h2>
   BEM VINDO AO MEU PERFIL!! 
-  </h1>
+  </h2>
 
 <div>
   <a href="https://github.com/RCK04">
