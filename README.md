@@ -1,5 +1,5 @@
 <h2>
-  BEM VINDO AO MEU PERFIL!! 
+  Bem-Vindo(a) ao meu Perfil!! 
   </h2>
 
 <div>
