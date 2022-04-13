@@ -1,5 +1,5 @@
 <h2>
-  Bem-Vindo(a) ao meu Perfil ![image](https://user-images.githubusercontent.com/99020433/163246802-a5cc7846-87fb-4640-8235-b05d648e18b0.png)
+  Bem-Vindo(a) ao meu Perfil 🧙‍♂️
 
   </h2>
 
