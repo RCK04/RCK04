@@ -3,10 +3,10 @@
 
   </h2>
   
-  <h2>
+  <p>
   Hi, I'm Erick !!
   
-  </h2>
+  </p>
 
 <div>
   <a href="https://github.com/RCK04">
