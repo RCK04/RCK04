@@ -2,6 +2,11 @@
   Bem-Vindo(a) ao meu Perfil 🧙‍♂️
 
   </h2>
+  
+  <h2>
+  Hi, I'm Erick !!
+  
+  </h2>
 
 <div>
   <a href="https://github.com/RCK04">
