@@ -1,5 +1,5 @@
 <h2>
-  Bem-Vindo(a) ao meu Perfil 🧙‍♂️
+  Welcome! 🧙‍♂️
 
   </h2>
   
