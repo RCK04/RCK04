@@ -19,7 +19,7 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 Beyond web development, I have a growing interest in Data Analytics, Cloud Computing, and Software Architecture. I enjoy exploring modern technologies, improving engineering practices, and creating systems that solve real-world problems while delivering value to communities and businesses.
 
 - Based in Olinda, Pernambuco, Brazil
-- Bachelor's Degree in Software Engineering
+- Software Engineering Student
 - Project Lead at **Impact**
 - Exploring Cloud Computing, Data Engineering, and Software Architecture
 - Open to collaboration and new opportunities
@@ -71,7 +71,7 @@ Beyond web development, I have a growing interest in Data Analytics, Cloud Compu
 ### Impact Marketplace
 *Project Lead · Private · In Development*
 
-A community-driven marketplace platform designed to connect customers, affiliates, and suppliers within a unified digital ecosystem. Unlike large-scale marketplaces, Impact focuses on empowering small businesses and local entrepreneurs — helping them expand their reach, increase visibility, and grow within their communities.
+A community-driven marketplace platform designed to connect customers, affiliates, and suppliers within a unified digital ecosystem. Unlike large-scale marketplaces, Impact focuses on empowering small businesses and local entrepreneurs - helping them expand their reach, increase visibility, and grow within their communities.
 
 The platform combines technology, commerce, and community engagement to create a sustainable ecosystem with its own identity, built specifically for the region around Olinda, Abreu e Lima, Igarassu, and neighboring areas.
 
@@ -107,16 +107,6 @@ A task management application built to deepen my understanding of backend archit
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RCK04&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## Certifications & Highlights
-
-- Leading the development and growth of the **Impact** marketplace platform as Project Lead
-- **EF SET C1** English Certification
-- Cloud Computing training with focus on AWS fundamentals and modern cloud concepts
-  
----
 
 ## Currently Learning
 
