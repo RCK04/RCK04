@@ -66,19 +66,6 @@ Beyond web development, I have a growing interest in Data Analytics, Cloud Compu
 
 ---
 
-## Featured Projects
-
-### Impact Marketplace
-*Project Lead · Private · In Development*
-
-A community-driven marketplace platform designed to connect customers, affiliates, and suppliers within a unified digital ecosystem. Unlike large-scale marketplaces, Impact focuses on empowering small businesses and local entrepreneurs - helping them expand their reach, increase visibility, and grow within their communities.
-
-The platform combines technology, commerce, and community engagement to create a sustainable ecosystem with its own identity, built specifically for the region around Olinda, Abreu e Lima, Igarassu, and neighboring areas.
-
-**Stack:** React · Material UI · TanStack Router · TanStack Query · Zod · NestJS · TypeORM · Swagger · Scalar · Docker
-
----
-
 ## GitHub Stats
 
 <div align="center">
