@@ -2,7 +2,7 @@
 
 # Hi, I'm Erick Roberto
 
-**Full Stack Developer · Project Lead · Software Engineering Student**
+**Full Stack Developer · Software Engineering Student**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-roberto/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RCK04)
@@ -76,24 +76,6 @@ A community-driven marketplace platform designed to connect customers, affiliate
 The platform combines technology, commerce, and community engagement to create a sustainable ecosystem with its own identity, built specifically for the region around Olinda, Abreu e Lima, Igarassu, and neighboring areas.
 
 **Stack:** React · Material UI · TanStack Router · TanStack Query · Zod · NestJS · TypeORM · Swagger · Scalar · Docker
-
----
-
-### SipTrack
-*Personal Project · In Development*
-
-A hydration tracking application that helps users monitor daily water intake, set goals, and build healthy habits through streaks and progress tracking. The project also serves as a learning environment to explore modern web technologies and validate architectural decisions in a real product context.
-
-**Stack:** React · Bun · Hono · Drizzle ORM · PostgreSQL · Tailwind CSS · shadcn/ui · TanStack Router · TanStack Query
-
----
-
-### Todo App
-*Personal Project · In Development*
-
-A task management application built to deepen my understanding of backend architecture, database modeling, and TypeScript tooling. Serves as a practical foundation for patterns that will later be applied in SipTrack and other projects.
-
-**Stack:** Hono · Drizzle ORM · PostgreSQL · TypeScript
 
 ---
 
