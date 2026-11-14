@@ -66,17 +66,6 @@ Beyond web development, I have a growing interest in Data Analytics, Cloud Compu
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RCK04&show_icons=true&theme=tokyonight&hide_border=true)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RCK04&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## Currently Learning
 
 - Cloud Computing & Modern Infrastructure
